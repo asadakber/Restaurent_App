@@ -1,0 +1,53 @@
+.align {
+    margin-left: -10px;
+    margin-top: -7px;
+  
+}
+
+.heading {
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.border {
+    height: 600px;
+    overflow-y: scroll;
+    position: fixed;
+    width: 400px;
+
+}
+
+.margin {
+    margin: 20px;
+    
+}
+
+.card-8 {
+    width: 460px;
+    margin-left: 400px;
+   margin-top: -5px;
+
+}
+
+.card-9{
+    width: 460px;
+    margin-left: 870px;
+   margin-top: -665px;
+
+}
+
+.card-10 {
+    width: 460px;
+    margin-left: 870px;
+   margin-top: -665px;
+}
+
+.card-11 {
+    width: 460px;
+    margin-left: 400px;
+   margin-top: -45px;
+}
+
+
+
+

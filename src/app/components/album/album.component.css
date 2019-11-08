@@ -1,0 +1,164 @@
+.align {
+    margin-left: -10px;
+    margin-top: -7px;
+  
+}
+
+.heading {
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.border {
+    height: 600px;
+    overflow-y: scroll;
+    position: fixed;
+    width: 400px;
+
+}
+
+.margin {
+    margin: 20px;
+    
+}
+
+.card-8 {
+    width: 460px;
+    margin-left: 400px;
+   margin-top: -5px;
+
+}
+
+.box {
+    background-color: lightgray;
+    height: 1px;
+    width: 920px;
+    margin-left: 410px;
+    margin-top: 30px;
+}
+
+.box-1 {
+    background-color: lightgray;
+    height: 1px;
+    width:920px;
+    margin-left: 410px;
+    margin-top: 32px;
+}
+
+.box-2 {
+    background-color: lightgray;
+    height: 1px;
+    width:920px;
+    margin-left: 410px;
+    margin-top: 30px;
+}
+
+.box-3 {
+    margin-left: 500px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+.card-9{
+    width: 460px;
+    margin-left: 870px;
+   margin-top: -665px;
+
+}
+
+.para {
+    margin-left: 530px;
+    width: 800px;
+}
+
+.para-1 {
+    width: 800px;
+    margin-left: 410px;
+}
+
+
+
+.head {
+    margin-left: 530px;
+    margin-top: -100px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card-10 {
+    width: 460px;
+    margin-left: 870px;
+   margin-top: -665px;
+}
+
+.card-11 {
+    width: 460px;
+    margin-left: 400px;
+   margin-top: -45px;
+}
+
+.image {
+    margin-left: 410px;
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.card0 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -0px;
+    
+}
+
+.card1 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -25px;
+    
+}
+
+.card2 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -25px;
+    
+}
+
+.card3 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -25px;
+    
+}
+
+.card-title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card4 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -25px;
+    
+}
+
+.card5 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -25px;
+    
+}
+
+.card6 {
+    margin-left: 400px;
+    width: 935px;
+    margin-top: -25px;
+    
+}
+
+.box {
+    margin-top: 100px;
+}
+
+
